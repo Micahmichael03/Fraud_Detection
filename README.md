@@ -68,16 +68,17 @@ jupyter notebook analysis_model.ipynb
 
 ## Project Media
 ### Screenshots
-[Add your project screenshots here]
+![Screenshot 1](images/images1.png)
+![Screenshot 2](images/images2.png)
 
 ### Demo Video
-[Add your project demo video here]
+
 
 ## Contact Information
 For any inquiries or collaboration opportunities, please reach out:
 
 - Email: makoflash05@gmail.com
-- LinkedIn: [Michael Micah](linkedin.com/in/Michael-Micah003)
+- LinkedIn: [https://www.linkedin.com/in/Michael-Micah003/]
 
 ## License
 [Add your license information here]
