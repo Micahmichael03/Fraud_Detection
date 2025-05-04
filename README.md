@@ -80,8 +80,6 @@ For any inquiries or collaboration opportunities, please reach out:
 - Email: makoflash05@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/Michael-Micah003/]
 
-## License
-[Add your license information here]
-
 ## Acknowledgments
-[Add any acknowledgments or credits here] 
+Thanks to Data Science with Onur youtube channel
+[https://youtu.be/4Od5_z28iIE?si=q9E-CTOILSFF0Dqo]
